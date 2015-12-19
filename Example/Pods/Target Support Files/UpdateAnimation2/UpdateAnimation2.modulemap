@@ -1,0 +1,6 @@
+framework module UpdateAnimation2 {
+  umbrella header "UpdateAnimation2-umbrella.h"
+
+  export *
+  module * { export * }
+}

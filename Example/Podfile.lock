@@ -1,0 +1,14 @@
+PODS:
+  - UpdateAnimation2 (0.1.0)
+
+DEPENDENCIES:
+  - UpdateAnimation2 (from `../`)
+
+EXTERNAL SOURCES:
+  UpdateAnimation2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UpdateAnimation2: dafd54e5938e2d49af7fb35b5ca17a8fe6af3a4d
+
+COCOAPODS: 0.39.0

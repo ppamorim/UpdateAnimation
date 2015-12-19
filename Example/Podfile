@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'UpdateAnimation2_Example', :exclusive => true do
+  pod "UpdateAnimation2", :path => "../"
+end
+
+target 'UpdateAnimation2_Tests', :exclusive => true do
+  pod "UpdateAnimation2", :path => "../"
+
+  
+end
